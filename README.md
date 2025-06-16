@@ -1,7 +1,7 @@
-# Data_Privacy_Preserving-Payment-Transactions-for-European-Central-Bank
+## Data_Privacy_Preserving-Payment-Transactions-for-European-Central-Bank
 This project explores and visualizes key aspects of mutual fund performance to help investors and analysts make data-driven decisions. It involves data preparation, visual analysis, and the extraction of meaningful insights through interactive D3.js-based plots.
 
-# Summary
+## Summary
 The project aims to:
 - **Visualize** mutual fund category distribution and performance patterns
 - **Analyze** correlations between expense ratio, fund ratings, and returns
