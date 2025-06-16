@@ -2,13 +2,7 @@
 This project explores and visualizes key aspects of mutual fund performance to help investors and analysts make data-driven decisions. It involves data preparation, visual analysis, and the extraction of meaningful insights through interactive D3.js-based plots.
 
 ## Summary
-The project aims to:
-- **Visualize** mutual fund category distribution and performance patterns
-- **Analyze** correlations between expense ratio, fund ratings, and returns
-- **Provide** comparative insights across top-performing mutual funds
-- **Enable** user-friendly exploration using D3.js for dynamic charts and plots
-
-The final result is a web-based visual analytics dashboard created using D3.js that allows interactive exploration of mutual fund data.
+The core objective is to apply differential privacy techniques, risk stratification, and modeling methods (such as Linear Regression and Random Forest Regression) to forecast transaction behaviors while maintaining strict privacy standards. The study demonstrates how sensitive financial data can be anonymized, modeled, and visualized to balance data utility and privacy risk.
 
 ## Tools & Libraries Used:
 ### Data Analysis
